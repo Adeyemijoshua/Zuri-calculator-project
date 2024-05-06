@@ -17,13 +17,18 @@ p {
   margin-top: 2rem;
   text-align: center;
 }
+.repo-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-/* a {
-  text-decoration: underline;
+a {
+  text-decoration: none;
   color: red;
   font-family: "Courier New", Courier, monospace;
-} */
-
+  margin-top: 2rem;
+}
 table {
   width: 25vw;
   margin: 4.7rem auto;
